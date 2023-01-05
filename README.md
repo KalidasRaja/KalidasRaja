@@ -1,5 +1,8 @@
 ### Hi there,  My name's Kalidas R 👋
 
+- 🔭 I’m currently working on Django, Tailwind Css Framework and MySQL.
+- 💬 Ask me about Django, Tailwind Css Framework and MySQL.
+
 <!--
 **KalidasRaja/KalidasRaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
