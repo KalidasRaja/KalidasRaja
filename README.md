@@ -1,3 +1,4 @@
+<img src="https://www.zekelabs.com/static/media/uploads/being-a-django-developer-big.jpg" alt="banner" /> 
 <h1 align="center">Hi 👋, I'm Kalidas R</h1>
 <h3 align="center">A passionate django developer from India</h3>
 
